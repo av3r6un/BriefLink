@@ -1,0 +1,11 @@
+{
+  "name": "brieflink",
+  "version": "0.0.1",
+  "description": "Pure Node.js app to shorten links",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "av3r6un",
+  "license": "ISC"
+}
